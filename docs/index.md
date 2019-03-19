@@ -11,3 +11,4 @@ A Python Flask powered all-in-one cross-platform server management system for Ar
 * [HUMVEE README](/README.md)
 * [DB Upgrade](/db_upgrade.md)
 * [Project Plan](/project.md)
+* [Python Virtual Environment](/venv.md)
