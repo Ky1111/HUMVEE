@@ -12,20 +12,20 @@ This will be a short-list of future goals the project is planning to achieve:
 
 ### Main Features
 
-- [] Mission Management (start, stop, restart, and lint missions)
-- [] Server Management (start, stop, update, and run multi-port servers)
-- [] Mod Management (Steam Workshop Download, Git Download, automated symlinking, lowercasing, etc.)
-- [] Key Management
-- [] RPT Management
-- [] Launch Options (CFGs, profiles, difficulties, etc)
-- [] Deploying to Swifty3
-- [] Deploying to A3Sync
+- [ ] Mission Management (start, stop, restart, and lint missions)
+- [ ] Server Management (start, stop, update, and run multi-port servers)
+- [ ] Mod Management (Steam Workshop Download, Git Download, automated symlinking, lowercasing, etc.)
+- [ ] Key Management
+- [ ] RPT Management
+- [ ] Launch Options (CFGs, profiles, difficulties, etc)
+- [ ] Deploying to Swifty3
+- [ ] Deploying to A3Sync
 
 ### Hopeful Features
 
-- [] Discord Integration
-- [] Event Role Selection (Via Discord)
-- [] Automatic Slotting for Events
+- [ ] Discord Integration
+- [ ] Event Role Selection (Via Discord)
+- [ ] Automatic Slotting for Events
 
 
 ## Building From Source
